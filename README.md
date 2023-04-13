@@ -24,3 +24,5 @@ Pressione a tecla 'ESC' para sair do jogo.
 <h3>Licença</h3>
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter detalhes.
   </p>
+<h3> Prévia do funcionamento do jogo</h3>
+https://user-images.githubusercontent.com/49960367/231794639-7310b0e5-6e2c-4df5-9de0-3ee357408af7.mp4
